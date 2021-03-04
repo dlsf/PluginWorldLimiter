@@ -1,5 +1,5 @@
 # PluginWorldLimiter
-Spigot plugins which is able to block certain plugin commands in specific worlds.
+Spigot plugin which is able to block certain plugin commands in specific worlds.
 
 ## Usage
 You can configure this plugin through a config.yml. Players with the permission `pwl.bypass` will be ignored.
