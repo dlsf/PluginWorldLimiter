@@ -22,7 +22,7 @@ world:
 ```
 
 ## Download
-You can download the plugin from SpigotMC or the releases page.
+You can download the plugin from [SpigotMC](https://www.spigotmc.org/resources/pluginworldlimiter.89759/) or the [releases page](https://github.com/dlsf/PluginWorldLimiter/releases).
 
 ## Building
 1. `git clone https://github.com/dlsf/PluginWorldLimiter/`
