@@ -1,0 +1,5 @@
+name: PluginWorldLimiter
+main: net.seliba.pluginworldlimiter.PluginWorldLimiter
+version: '1.0'
+api-version: '1.13'
+author: 'das_'
