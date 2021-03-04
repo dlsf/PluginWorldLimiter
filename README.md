@@ -34,4 +34,4 @@ You can download the plugin from SpigotMC or the releases page.
 Feel free to open new issues with feature requests or create your own pull requests.
 
 ## Contact
-You can contact me on my [support server](https://discord.gg/E763gRg).
+You can contact me on my [support Discord](https://discord.gg/E763gRg).
